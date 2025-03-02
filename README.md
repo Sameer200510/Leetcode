@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sameer200510/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sameer200510/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Sameer200510/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Sameer200510/Leetcode/tree/master/0292-nim-game) |
 ## Array
 |  |
 | ------- |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sameer200510/Leetcode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sameer200510/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sameer200510/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
