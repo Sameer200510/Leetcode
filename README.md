@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sameer200510/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameer200510/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sameer200510/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sameer200510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Sameer200510/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Sameer200510/Leetcode/tree/master/3226-minimum-number-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sameer200510/Leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sameer200510/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sameer200510/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sameer200510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/Sameer200510/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sameer200510/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
