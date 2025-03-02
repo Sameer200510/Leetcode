@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sameer200510/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Sameer200510/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sameer200510/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Sameer200510/Leetcode/tree/master/1086-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -103,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sameer200510/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Sameer200510/Leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sameer200510/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Sameer200510/Leetcode/tree/master/1086-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Sameer200510/Leetcode/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Sameer200510/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
