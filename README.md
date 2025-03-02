@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sameer200510/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sameer200510/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Sameer200510/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameer200510/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sameer200510/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sameer200510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sameer200510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/Sameer200510/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2551-apply-operations-to-an-array](https://github.com/Sameer200510/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sameer200510/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sameer200510/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Sameer200510/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Sameer200510/Leetcode/tree/master/0682-baseball-game) |
+| [2551-apply-operations-to-an-array](https://github.com/Sameer200510/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/Sameer200510/Leetcode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
