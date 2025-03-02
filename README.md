@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Sameer200510/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/Sameer200510/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sameer200510/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sameer200510/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Sameer200510/Leetcode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sameer200510/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Sameer200510/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Sameer200510/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sameer200510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
