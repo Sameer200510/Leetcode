@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Sameer200510/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Sameer200510/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sameer200510/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/Sameer200510/Leetcode/tree/master/3321-type-of-triangle) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sameer200510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Sameer200510/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Sameer200510/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/Sameer200510/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sameer200510/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sameer200510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/Sameer200510/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/Sameer200510/Leetcode/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
