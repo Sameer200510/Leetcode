@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Sameer200510/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sameer200510/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Sameer200510/Leetcode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sameer200510/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Sameer200510/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Sameer200510/Leetcode/tree/master/3312-number-of-changing-keys) |
+| [3462-vowels-game-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -145,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Sameer200510/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Sameer200510/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Sameer200510/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sameer200510/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Sameer200510/Leetcode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
