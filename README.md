@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Sameer200510/Leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sameer200510/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3567-convert-date-to-binary](https://github.com/Sameer200510/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/Sameer200510/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3567-convert-date-to-binary](https://github.com/Sameer200510/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Trie
 |  |
 | ------- |
