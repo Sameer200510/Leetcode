@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sameer200510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Sameer200510/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/Sameer200510/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Sameer200510/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Sameer200510/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Sameer200510/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sameer200510/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Sameer200510/Leetcode/tree/master/3226-minimum-number-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Sameer200510/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
