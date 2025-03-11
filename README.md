@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer200510/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Sameer200510/Leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer200510/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sameer200510/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sameer200510/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/Sameer200510/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Array
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Sameer200510/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer200510/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Sameer200510/Leetcode/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sameer200510/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sameer200510/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
