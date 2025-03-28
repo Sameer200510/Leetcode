@@ -11,7 +11,8 @@ public:
             //for cases such as IV,CM, XL, etc...
             ans=ans-mp[s[i]];
         }
-        else{
+        else
+        {
             ans=ans+mp[s[i]];
         }
     }
